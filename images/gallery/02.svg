@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="350" viewBox="0 0 400 350">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="hsl(148, 25%, 88%)"/>
+      <stop offset="100%" stop-color="hsl(148, 35%, 72%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <circle cx="300" cy="87.5" r="52.5" fill="hsl(148, 40%, 45%)" opacity="0.15"/>
+  <circle cx="80" cy="244.99999999999997" r="70" fill="hsl(148, 40%, 45%)" opacity="0.1"/>
+  <rect x="40" y="122.49999999999999" width="140" height="105" rx="12" fill="hsl(148, 40%, 45%)" opacity="0.08"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="hsl(148, 40%, 45%)" font-family="Georgia, serif" font-size="21" opacity="0.6">Activities</text>
+</svg>

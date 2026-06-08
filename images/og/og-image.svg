@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3D5A4C"/>
+      <stop offset="100%" stop-color="#5B8A72"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1000" cy="120" r="180" fill="#C4704B" opacity="0.15"/>
+  <circle cx="200" cy="500" r="220" fill="#E8A87C" opacity="0.1"/>
+  <text x="80" y="280" fill="#FDFBF7" font-family="Georgia, serif" font-size="64" font-weight="700">Little Steps Preschool</text>
+  <text x="80" y="350" fill="#F7F2EA" font-family="Arial, sans-serif" font-size="32" opacity="0.9">Premium Early Learning in Vadodara</text>
+  <text x="80" y="420" fill="#E8A87C" font-family="Arial, sans-serif" font-size="24">Playgroup · Nursery · Jr. KG · Sr. KG</text>
+  <rect x="80" y="480" width="220" height="48" rx="12" fill="#C4704B"/>
+  <text x="190" y="510" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="600" text-anchor="middle">Enquire Now</text>
+</svg>
