@@ -41,6 +41,12 @@ To edit the site with live reload:
 3. GitHub → Settings → Pages → Deploy from branch → main → / (root)
 4. Your site will be at: https://YOUR_USERNAME.github.io/REPO_NAME/
 
+For this project (little-steps-website), rebuild with:
+
+  npm run export:github
+
+Then upload the contents of static-site/ again.
+
 ## Replace images later
 
 Drop new photos into the matching subfolder under images/ using the same filename.
